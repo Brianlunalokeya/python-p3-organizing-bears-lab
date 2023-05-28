@@ -7,4 +7,4 @@ VALUES
   ('Melissa', 4, 'F', 'Blonde', 'Calm', 1),
   ('Grinch', 6, 'M', 'Green', 'Mischievous', 0),
   ('Wendy', 5, 'F', 'White', 'Sweet', 1),
-  ('NULL', 13, 'M', 'Black', 'Friendly', 0);
+  (NULL, 5, 'M', 'Hazy Blue', 'Welcoming', 1);
